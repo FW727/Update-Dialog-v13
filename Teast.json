@@ -1,24 +1,11 @@
 {
-  "version": "1.1",
-  "app_name": "Simple Ui",
-  "release_notes": "1. • Cambios en la interfaz de usuario para una experiencia más fluida.\n2. • Corrección de errores importantes que afectaban la estabilidad.\n3. • Mejoras de rendimiento en el arranque de la aplicación.\n4. • Añadida nueva funcionalidad de personalización en los ajustes.",
+  "version": "2.0",
+  "release_notes": "1. • Animación de apertura del diálogo añadida.\n2. • Efecto de presión en todos los botones para un mejor feedback.\n3. • Detección automática del nombre e ícono de la app.\n4. • El diseño ahora es más compacto y refinado.",
   "link": "https://github.com/your/repo/releases/latest",
   "social_links": [
-    {
-      "icon": "telegram.png",
-      "link": "https://t.me/yourchannel"
-    },
-    {
-      "icon": "youtube.png",
-      "link": "https://youtube.com/yourchannel"
-    },
-    {
-      "icon": "instagram.png",
-      "link": "https://instagram.com/yourprofile"
-    },
-    {
-      "icon": "facebook.png",
-      "link": "https://facebook.com/yourpage"
-    }
+    { "icon": "telegram.png", "link": "https://t.me/yourchannel" },
+    { "icon": "youtube.png", "link": "https://youtube.com/yourchannel" },
+    { "icon": "instagram.png", "link": "https://instagram.com/yourprofile" },
+    { "icon": "facebook.png", "link": "https://facebook.com/yourpage" }
   ]
 }
