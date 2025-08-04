@@ -1,0 +1,8 @@
+{
+  "version": "1.1",
+  "titulo": "¡Actualización Disponible!",
+  "subtitulo": "Hemos mejorado la app con nuevas funciones y correcciones. Actualiza para obtener la mejor experiencia.",
+  "link": "https://github.com/tu-usuario/tu-repo/releases/latest",
+  "botonclose": true,
+  "closefuncion": false
+}
