@@ -1,7 +1,9 @@
 {
   "version": "2.0",
-  "release_notes": "1. • Animación de apertura del diálogo añadida.\n2. • Efecto de presión en todos los botones para un mejor feedback.\n3. • Detección automática del nombre e ícono de la app.\n4. • El diseño ahora es más compacto y refinado.",
+  "release_notes": "1. • ¡NUEVO! Botón para cerrar el diálogo o la aplicación.\n2. • ¡NUEVO! Distinción entre click y mantener presionado en los botones.\n3. • ¡NUEVO! Etiqueta 'NEW' animada junto al título.\n4. • Las versiones ahora se muestran en rojo y verde para mayor claridad.",
   "link": "https://github.com/your/repo/releases/latest",
+  "show_close_button": true,
+  "close_button_action": "exit",
   "social_links": [
     { "icon": "telegram.png", "link": "https://t.me/yourchannel" },
     { "icon": "youtube.png", "link": "https://youtube.com/yourchannel" },
