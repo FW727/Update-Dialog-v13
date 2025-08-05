@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0",
+  "latest_version": "1.0",
   "release_notes": "1. • ¡NUEVO! Botón para cerrar el diálogo o la aplicación.\n2. • ¡NUEVO! Distinción entre click y mantener presionado en los botones.\n3. • ¡NUEVO! Etiqueta 'NEW' animada junto al título.\n4. • Las versiones ahora se muestran en rojo y verde para mayor claridad.",
   "update_link": "https://github.com/your/repo/releases/latest",
   "show_close_button": true,
