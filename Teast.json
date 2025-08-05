@@ -1,12 +1,12 @@
 {
   "latest_version": "1.0",
   "release_notes": "1. • ¡NUEVO! Botón para cerrar el diálogo o la aplicación.\n2. • ¡NUEVO! Distinción entre click y mantener presionado en los botones.\n3. • ¡NUEVO! Etiqueta 'NEW' animada junto al título.\n4. • Las versiones ahora se muestran en rojo y verde para mayor claridad.",
-  "update_link": "https://github.com/your/repo/releases/latest",
+  "update_link": "https://t.me/FwDialogs",
   "show_close_button": true,
   "close_button_action": "exit",
   "social_links": [
-    { "icon": "telegram.png", "link": "https://t.me/yourchannel" },
-    { "icon": "youtube.png", "link": "https://youtube.com/yourchannel" },
+    { "icon": "telegram.png", "link": "https://t.me/FwDialogs" },
+    { "icon": "youtube.png", "link": "https://youtube.com/FwDialogs" },
     { "icon": "instagram.png", "link": "https://instagram.com/yourprofile" }
   ]
 }
