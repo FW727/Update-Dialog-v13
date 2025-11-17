@@ -1,0 +1,15 @@
+{
+  "version": "2.5.0",
+  "title": "New Version Available!",
+  "message": "We have fixed many bugs, improved performance and added dark mode support along with many new features that you will love. Update now to enjoy the best experience!",
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.tuapp",
+  "cancelText": "Later",
+  "updateText": "Update Now",
+  "backgroundColor": "#E6F0FA",
+  "titleColor": "#1A1A1A",
+  "messageColor": "#333333",
+  "cancelColor": "#006D9C",
+  "updateColor": "#FF3B30",
+  "readMoreColor": "#00A0DC",
+  "theme": "default"
+}
